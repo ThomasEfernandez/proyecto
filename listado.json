@@ -1,0 +1,106 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": 1231234,
+        "direccion": "Constitucion 1010",
+        "edad": 17,
+        "fecha_nacimiento": "17/8/2007",
+        "historial_de_Ingresos": [
+            {
+                "causa_Ingreso": "Robo",
+                "fecha_Ingreso": "17/8/2024",
+                "fecha_egreso": "24/8/2024",
+                "descripcion": "Robo a mano armada ",
+                "edad": 17,
+                "problematica": "ROBO",
+                "direccion_del_hecho": "Constitucion 3015",
+                "barrio": "Caisamar"
+            }
+        ],
+        "barrio": "Caisamar"
+    },
+    {
+        "nombre": "Lautaro",
+        "apellido": "Hourcade ",
+        "dni": 123333,
+        "direccion": "Libertad 2973",
+        "edad": 22,
+        "fecha_nacimiento": "13/7/2008",
+        "historial_de_Ingresos": [
+            {
+                "causa_Ingreso": "Pelea",
+                "fecha_Ingreso": "17/8/2024",
+                "fecha_egreso": "20/8/2024",
+                "descripcion": "robo de auto",
+                "edad": 16,
+                "problematica": "VIOLENCIA",
+                "direccion_del_hecho": "Constitucion 3030",
+                "barrio": "Libertad"
+            }
+        ],
+        "barrio": "Libertad"
+    },
+    {
+        "nombre": "Matias",
+        "apellido": "Fernandez",
+        "dni": 12123,
+        "direccion": "Alvarado 1010",
+        "edad": 34,
+        "fecha_nacimiento": "9/9/1990",
+        "historial_de_Ingresos": [
+            {
+                "causa_Ingreso": "ROBO",
+                "fecha_Ingreso": "28/7//2024",
+                "fecha_egreso": "05/8/2024",
+                "descripcion": "Que se yo 2",
+                "edad": 34,
+                "problematica": "ROBO",
+                "direccion_del_hecho": "Av. tejedor 1010",
+                "barrio": "Alvarado"
+            }
+        ],
+        "barrio": "Alvarado"
+    },
+    {
+        "nombre": "Thomas",
+        "apellido": "Fernandez",
+        "dni": 43855703,
+        "direccion": "Calasanz 1206",
+        "edad": 26,
+        "fecha_nacimiento": "24/12/2001",
+        "historial_de_Ingresos": [
+            {
+                "causa_Ingreso": "Violencia",
+                "fecha_Ingreso": "30/7/2024",
+                "fecha_egreso": "03/8/2024",
+                "descripcion": "cambiado",
+                "edad": 25,
+                "problematica": "VIOLENCIA",
+                "direccion_del_hecho": "Av. Peralta Ramos 5050",
+                "barrio": "Caisamar"
+            },
+            {
+                "causa_Ingreso": "Violencia",
+                "fecha_Ingreso": "30/7/2024",
+                "fecha_egreso": "03/8/2024",
+                "descripcion": "cambiado",
+                "edad": 22,
+                "problematica": "VIOLENCIA",
+                "direccion_del_hecho": "Av. Constitucion 1500",
+                "barrio": "Caisamar"
+            },
+            {
+                "causa_Ingreso": "Robo a mano armada",
+                "fecha_Ingreso": "18/8/2024",
+                "fecha_egreso": "22/8/2024",
+                "descripcion": "Asalto un kiosko ",
+                "edad": 26,
+                "problematica": "ROBO",
+                "direccion_del_hecho": "Constitucion 3010",
+                "barrio": "Caisamar"
+            }
+        ],
+        "barrio": "Caisamar"
+    }
+]
